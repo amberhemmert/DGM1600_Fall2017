@@ -1,0 +1,11 @@
+//Variables
+
+My understanding of Variables, describes an object that is used to store. Five examples of Variables are:
+
+A bottle
+A box
+A container
+A file
+A suitcase
+
+You would then "fill" those items with int. 
