@@ -1,0 +1,13 @@
+/*
+Convention is how the code "looks" which means the space or indent. Often code is nested in other code. 
+Syntax, simply put is computer grammar. How your code is typed out will determine the function read by the computer and it needs to be entered in correctly. 
+
+Examples:
+  an error would be public int health = "Fish"; (using a string when you have an int would cause an error) 
+  
+ Convention rules exisit to keep the code base manageable in C++.
+ -rules for indentation and alignment
+ -use of whitespace and comments
+ -program structure
+ 
+  */
