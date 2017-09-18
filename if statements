@@ -1,0 +1,50 @@
+/*
+
+If statements use code to make a decision based on a condtion. 
+
+10 Examples of If Statements: 
+
+  if (price <= 0)
+{
+    // Error condition
+}
+
+if (price > average_price)
+{
+    // Apply discount
+}
+
+if (age < 18)
+{
+    // Error message -- not allowed to buy alcohol
+}
+
+if (age >= 65)
+{
+    // Apply seniors' discount
+}
+*/
+
+
+if (grade >= 90)
+{
+    letter_grade = 'A';
+}
+else if (grade >= 80)
+{
+    letter_grade = 'B';
+}
+else if (grade >= 70)
+{
+    letter_grade = 'C';
+}
+else if (grade >= 60)
+{
+    letter_grade = 'D';
+}
+else
+{
+    letter_grade = 'F';
+}
+
+
