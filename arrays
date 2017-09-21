@@ -22,4 +22,64 @@ public macys[] groceries
 groceries[25]="Bread"
 print(groceries [25]);
 
-public red[]
+
+public string[] heros = new string[6];
+
+	heros[0]="Batman";
+	heros[1]="Superman";
+	heros[2]="Wonder Woman";
+	heros[3]="Green Lantern";
+	heros[4]="Hawkman";
+	heros[5]="Bat Gitl";
+
+	print(heros[0]);
+
+public string[] cartoons = new string[8];
+
+	cartoons[0]="Roger Rabbit";
+	cartoons[1]="Bugs Bunny";
+	cartoons[2]="Daffy Duck";
+	cartoons[3]="Minnie Mouse";
+	cartoons[4]="Mickey Mouse";
+	cartoons[5]="Rescue Rangers";
+  cartoons[6]="Ariel";
+  cartoons[7]="Snow White";
+
+	print(cartoons[0]);
+  
+  public string[] Tvshows = new string[3];
+  
+  Tvshows[0]="Rick and Morty";
+	Tvshows[1]="South Park";
+	Tvshows[2]="American Horror Story";
+  
+  print(Tvshows[1]);
+  
+  public string[] movies = new string[3];
+  
+  movies[0]="The Breakfast Club";
+	movies[1]="The Departed";
+	movies[2]="It";
+  
+  print(movies[2]);
+  
+  public string[] candy = new string[3];
+  
+  candy[0]="Snickers";
+	candy[1]="Mars";
+	candy[2]="Rice Crispies";
+  
+  print(candy[2]);
+  
+  public string[] soda = new string[3];
+  
+  soda[0]="Diet Coke";
+	soda[1]="Dr. Pepper";
+	soda[2]="Pepsi";
+  
+  print(soda[0]);
+  
+  
+  
+  
+  
