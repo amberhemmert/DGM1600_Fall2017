@@ -1,0 +1,25 @@
+/*
+An Array is a variable that holds multiple values.
+
+10 Examples:
+
+public brown[] eggs
+=new brown [12];
+eggs[3]="Good";
+print(eggs[3]);
+
+public GameObject[] inventory
+=new GameObject [12];
+inventory[0]=Bazooka;
+
+public white[] shoes
+=new white [3];
+shoes[2]="Converse";
+pint(shoes[2]);
+
+public macys[] groceries
+=new macys [50];
+groceries[25]="Bread"
+print(groceries [25]);
+
+public red[]
