@@ -43,7 +43,188 @@ A switch statement allows a variable to be checked or tested. A while loop is re
 	default: 
 		print("Shop til' you drop!");	
 	break;	
+	
 	}	
-  
+  public string shoppingMall = "Fashion Place";
+
+	void Start () {
+	switch(shoppingMall){
+	case"Fashion Place": 
+			print("Welcome to Fashion Place Mall");
+	break;
+	case "Nordstrom":
+		print("I'd rather be shopping at Nordstrom");
+		break;
+	case "Lush":
+	    print("Mmmmmmmmm smells good");
+	break;		
+	case "Urban Outfitters":
+		print("Millenial Clothes");	
+	break;
+	default: 
+		print("Shop til' you drop!");	
+	break;	
+	}	
+	public string shoppingMall = "Fashion Place";
+
+	void Start () {
+	switch(shoppingMall){
+	case"Fashion Place": 
+			print("Welcome to Fashion Place Mall");
+	break;
+	case "Nordstrom":
+		print("I'd rather be shopping at Nordstrom");
+		break;
+	case "Lush":
+	    print("Mmmmmmmmm smells good");
+	break;		
+	case "Urban Outfitters":
+		print("Millenial Clothes");	
+	break;
+	default: 
+		print("Shop til' you drop!");	
+	break;	
+	}	
+	public string shoppingMall = "Fashion Place";
+
+	void Start () {
+	switch(shoppingMall){
+	case"Fashion Place": 
+			print("Welcome to Fashion Place Mall");
+	break;
+	case "Nordstrom":
+		print("I'd rather be shopping at Nordstrom");
+		break;
+	case "Lush":
+	    print("Mmmmmmmmm smells good");
+	break;		
+	case "Urban Outfitters":
+		print("Millenial Clothes");	
+	break;
+	default: 
+		print("Shop til' you drop!");	
+	break;	
+	}	
+	public string shoppingMall = "Fashion Place";
+
+	void Start () {
+	switch(shoppingMall){
+	case"Fashion Place": 
+			print("Welcome to Fashion Place Mall");
+	break;
+	case "Nordstrom":
+		print("I'd rather be shopping at Nordstrom");
+		break;
+	case "Lush":
+	    print("Mmmmmmmmm smells good");
+	break;		
+	case "Urban Outfitters":
+		print("Millenial Clothes");	
+	break;
+	default: 
+		print("Shop til' you drop!");	
+	break;	
+	}	
+	public string shoppingMall = "Fashion Place";
+
+	void Start () {
+	switch(shoppingMall){
+	case"Fashion Place": 
+			print("Welcome to Fashion Place Mall");
+	break;
+	case "Nordstrom":
+		print("I'd rather be shopping at Nordstrom");
+		break;
+	case "Lush":
+	    print("Mmmmmmmmm smells good");
+	break;		
+	case "Urban Outfitters":
+		print("Millenial Clothes");	
+	break;
+	default: 
+		print("Shop til' you drop!");	
+	break;	
+	}	
+	public string shoppingMall = "Fashion Place";
+
+	void Start () {
+	switch(shoppingMall){
+	case"Fashion Place": 
+			print("Welcome to Fashion Place Mall");
+	break;
+	case "Nordstrom":
+		print("I'd rather be shopping at Nordstrom");
+		break;
+	case "Lush":
+	    print("Mmmmmmmmm smells good");
+	break;		
+	case "Urban Outfitters":
+		print("Millenial Clothes");	
+	break;
+	default: 
+		print("Shop til' you drop!");	
+	break;	
+	}	
+	public string shoppingMall = "Fashion Place";
+
+	void Start () {
+	switch(shoppingMall){
+	case"Fashion Place": 
+			print("Welcome to Fashion Place Mall");
+	break;
+	case "Nordstrom":
+		print("I'd rather be shopping at Nordstrom");
+		break;
+	case "Lush":
+	    print("Mmmmmmmmm smells good");
+	break;		
+	case "Urban Outfitters":
+		print("Millenial Clothes");	
+	break;
+	default: 
+		print("Shop til' you drop!");	
+	break;	
+	}	
+	public string shoppingMall = "Fashion Place";
+
+	void Start () {
+	switch(shoppingMall){
+	case"Fashion Place": 
+			print("Welcome to Fashion Place Mall");
+	break;
+	case "Nordstrom":
+		print("I'd rather be shopping at Nordstrom");
+		break;
+	case "Lush":
+	    print("Mmmmmmmmm smells good");
+	break;		
+	case "Urban Outfitters":
+		print("Millenial Clothes");	
+	break;
+	default: 
+		print("Shop til' you drop!");	
+	break;	
+	}	
+	public string shoppingMall = "Fashion Place";
+
+	void Start () {
+	switch(shoppingMall){
+	case"Fashion Place": 
+			print("Welcome to Fashion Place Mall");
+	break;
+	case "Nordstrom":
+		print("I'd rather be shopping at Nordstrom");
+		break;
+	case "Lush":
+	    print("Mmmmmmmmm smells good");
+	break;		
+	case "Urban Outfitters":
+		print("Millenial Clothes");	
+	break;
+	default: 
+		print("Shop til' you drop!");	
+	break;	
+	}	
+	
   
   */
