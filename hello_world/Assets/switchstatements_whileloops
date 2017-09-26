@@ -1,0 +1,66 @@
+/*
+A switch statement allows a variable to be checked or tested. A while loop is repeating a task by incrementing or deincrementing over an amount of time 
+
+
+10 Examples: 
+
+	public string townCenter = "main";
+	void Start () {
+	switch(townCenter){
+	case"main": 
+			print("Welcome to Main Street");
+	break;
+	case "blacksmith":
+		print("The blacksmith grumbles as you pick through the sword bin");
+		break;
+	case "bakery":
+	    print("Mmmmmmmmm baked goodness");
+	break;		
+	case "morgue":
+		print("Peeeeeeeeeeeyew! Dead things yuck!");	
+	break;
+	default: 
+		print("I don't know what you're talking about!");	
+	break;	
+	}	
+  
+  	public string shoppingMall = "Fashion Place";
+
+	void Start () {
+	switch(shoppingMall){
+	case"Fashion Place": 
+			print("Welcome to Fashion Place Mall");
+	break;
+	case "Nordstrom":
+		print("I'd rather be shopping at Nordstrom");
+		break;
+	case "Lush":
+	    print("Mmmmmmmmm smells good");
+	break;		
+	case "Urban Outfitters":
+		print("Millenial Clothes");	
+	break;
+	default: 
+		print("Shop til' you drop!");	
+	break;	
+	}	
+  
+  
+  While Loops Example: 
+  
+  	public int bottles = 0;
+
+
+
+	// Use this for initialization
+	void Start () {
+		while(bottles <100){
+			bottles ++;
+			print(bottles +" bottles of beer on the wall");	
+			
+		}	
+	}
+	
+	// Update is called once per frame
+	void Update () {
+  */
