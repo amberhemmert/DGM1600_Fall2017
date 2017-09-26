@@ -3,8 +3,22 @@
 A while loop is repeating a task by incrementing or deincrementing over an amount of time 
 
 Examples: 
+  
+  	public int bottles = 0;
 
 
+
+	// Use this for initialization
+	void Start () {
+		while(bottles <100){
+			bottles ++;
+			print(bottles +" bottles of beer on the wall");	
+			
+		}	
+	}
+	
+	// Update is called once per frame
+	void Update () {
 
 
 
