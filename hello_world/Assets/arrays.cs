@@ -16,7 +16,7 @@ public class arrays : MonoBehaviour {
 	heros[2]="Wonder Woman";
 	heros[3]="Green Lantern";
 	heros[4]="Hawkman";
-	heros[5]="Bat Gitl";
+	heros[5]="Bat Girl";
 
 	print(heros[0]);
 	}
