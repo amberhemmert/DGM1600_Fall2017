@@ -13,7 +13,7 @@ Examples:
 		while(bottles <100){
 			bottles ++;
 			print(bottles +" bottles of beer on the wall");	
-			
+	
 		}	
 	}
 	
@@ -21,15 +21,15 @@ Examples:
 	void Update () {
 	
 	
-  	public int bottles = 0;
+  	public int shoes = 0;
 
 
 
 	// Use this for initialization
 	void Start () {
-		while(bottles <100){
-			bottles ++;
-			print(bottles +" bottles of beer on the wall");	
+		while(shoes <200){
+			shoes ++;
+			print(shoes +"shoes in the closet");	
 			
 		}	
 	}
@@ -38,15 +38,15 @@ Examples:
 	void Update () {
 
 
-  	public int bottles = 0;
+  	public int cookies = 0;
 
 
 
 	// Use this for initialization
 	void Start () {
-		while(bottles <100){
-			bottles ++;
-			print(bottles +" bottles of beer on the wall");	
+		while(cookies <100){
+			cookies ++;
+			print(cookies +" Cookies in the jar");	
 			
 		}	
 	}
@@ -55,15 +55,15 @@ Examples:
 	void Update () {
 
 
-  	public int bottles = 0;
+  	public int fries = 0;
 
 
 
 	// Use this for initialization
 	void Start () {
-		while(bottles <100){
-			bottles ++;
-			print(bottles +" bottles of beer on the wall");	
+		while(fries <100){
+			fries ++;
+			print(fries +"fries in the happy meal");	
 			
 		}	
 	}
@@ -73,15 +73,15 @@ Examples:
 
 
 
-  	public int bottles = 0;
+  	public int apples = 0;
 
 
 
 	// Use this for initialization
 	void Start () {
-		while(bottles <100){
-			bottles ++;
-			print(bottles +" bottles of beer on the wall");	
+		while(apples <100){
+			apples ++;
+			print(apples +"apples in the basket");	
 			
 		}	
 	}
@@ -90,15 +90,15 @@ Examples:
 	void Update () {
 
 
-  	public int bottles = 0;
+  	public int sodaCans = 0;
 
 
 
 	// Use this for initialization
 	void Start () {
-		while(bottles <100){
+		while(sodaCans <100){
 			bottles ++;
-			print(bottles +" bottles of beer on the wall");	
+			print(sodaCans +" Soda cans in the fridge");	
 			
 		}	
 	}
@@ -107,15 +107,15 @@ Examples:
 	void Update () {
 
 
-  	public int bottles = 0;
+  	public int rolls = 0;
 
 
 
 	// Use this for initialization
 	void Start () {
-		while(bottles <100){
-			bottles ++;
-			print(bottles +" bottles of beer on the wall");	
+		while(rolls <100){
+			rolls ++;
+			print(rolls +" buttery rolls in the oven");	
 			
 		}	
 	}
@@ -123,15 +123,15 @@ Examples:
 	// Update is called once per frame
 	void Update () {
 	
-  	public int bottles = 0;
+  	public int fans = 0;
 
 
 
 	// Use this for initialization
 	void Start () {
-		while(bottles <100){
-			bottles ++;
-			print(bottles +" bottles of beer on the wall");	
+		while(fans <1000){
+			fans ++;
+			print(fans +"Fans in the stadium");	
 			
 		}	
 	}
@@ -139,15 +139,15 @@ Examples:
 	// Update is called once per frame
 	void Update () {
 
-  	public int bottles = 0;
+  	public int crystals = 0;
 
 
 
 	// Use this for initialization
 	void Start () {
-		while(bottles <100){
-			bottles ++;
-			print(bottles +" bottles of beer on the wall");	
+		while(crystals <100){
+			crystals ++;
+			print(crystals +"crystals in the chandalier");	
 			
 		}	
 	}
@@ -156,15 +156,15 @@ Examples:
 	void Update () {
 
 
-  	public int bottles = 0;
+  	public int cars = 0;
 
 
 
 	// Use this for initialization
 	void Start () {
-		while(bottles <100){
-			bottles ++;
-			print(bottles +" bottles of beer on the wall");	
+		while(cars <100){
+			cars ++;
+			print(cars +"cars on the freeway");	
 			
 		}	
 	}
@@ -173,15 +173,15 @@ Examples:
 	void Update () {
 	
 	
-  	public int bottles = 0;
+  	public int people = 0;
 
 
 
 	// Use this for initialization
 	void Start () {
-		while(bottles <100){
-			bottles ++;
-			print(bottles +" bottles of beer on the wall");	
+		while(people <100){
+			people ++;
+			print(people +"people in the world");	
 			
 		}	
 	}
@@ -189,30 +189,21 @@ Examples:
 	// Update is called once per frame
 	void Update () {
 
-  	public int bottles = 0;
+  	public int eggs = 0;
 
 
 
 	// Use this for initialization
 	void Start () {
-		while(bottles <100){
-			bottles ++;
-			print(bottles +" bottles of beer on the wall");	
+		while(eggs <100){
+			eggs ++;
+			print(eggs +" eggs in the carton");	
 			
 		}	
 	}
 	
 	// Update is called once per frame
 	void Update () {
-
-
-
-
-
-
-
-
-
 
 
 */
