@@ -1,0 +1,54 @@
+//*
+C++ uses math operators such as: addition, subtraction, multiplication, division and %. 
+By using a math operator, it will instruct your computer to perform a mathmatical/logical expression.
+
+10 Examples of Math Operators:
+
+
+// compound assignment operators
+#include <iostream>
+using namespace std;
+
+int main ()
+{
+  int a, b=3;
+  a = b;
+  a+=2;             // equivalent to a=a+2
+  cout << a;
+}
+
+// conditional operator
+#include <iostream>
+using namespace std;
+
+int main ()
+{
+  int a,b,c;
+
+  a=2;
+  b=7;
+  c = (a>b) ? a : b;
+
+  cout << c << '\n';
+}
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "7 + 2 = " << 7 + 2 << endl;
+    
+    cout << "7 - 2 = " << 7 - 2 << endl;
+    
+    cout << "7 * 2 = " << 7 * 2 << endl;
+    
+    cout << "7 / 2 = " << 7 / 2 << endl;
+    
+    cout << "8 / 2 = " << 8 / 2 << endl;
+    
+    cout << "7 % 2 = " << 7 % 2 << endl;
+
+    return 0;
+}
