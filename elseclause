@@ -1,1 +1,32 @@
 /*
+
+The else clause is code that will apply in an if statement when the result is false. 
+
+5 Examples: 
+
+if ( 2 + 2 == 5)
+  Console.WriteLine ("Does not compute");
+  else
+  Console.WriteLine ("False");  //False
+  
+  
+  if ( 3 + 3 == 7)
+  Console.WriteLine ("Does not compute");
+  else
+  Console.WriteLine ("False");  //False
+  
+  if ( 5 + 2 == 8)
+  Console.WriteLine ("Does not compute");
+  else
+  Console.WriteLine ("False");  //False
+  
+  if ( 3 + 3 == 9)
+  Console.WriteLine ("Does not compute");
+  else
+  Console.WriteLine ("False");  //False
+  
+  if ( 2 + 1 == 4)
+  Console.WriteLine ("Does not compute");
+  else
+  Console.WriteLine ("False");  //False
+  
