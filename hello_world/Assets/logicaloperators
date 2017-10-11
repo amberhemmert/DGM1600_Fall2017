@@ -3,44 +3,42 @@ The logical operator is used to test whether two conditions are true.
 
 10 Examples:
 
-#include <iostream>
-using namespace std;
-
-main() {
-   int a = 5;
-   int b = 20;
-   int c ;
-
-   if(a && b) {
-      cout << "Line 1 - Condition is true"<< endl ;
-   }
-   
-   if(a || b) {
-      cout << "Line 2 - Condition is true"<< endl ;
-   }
-   
-   /* Let's change the values of  a and b */
-   a = 0;
-   b = 10;
-   
-   if(a && b) {
-      cout << "Line 3 - Condition is true"<< endl ;
-   } else {
-      cout << "Line 4 - Condition is not true"<< endl ;
-   }
-   
-   if(!(a && b)) {
-      cout << "Line 5 - Condition is true"<< endl ;
-   }
-   
-   return 0;
-}
-
-
-
-
-
-
+ 
+  // Use this for initialization 
+  void Start () { 
+    // if(luke == "Jedi" &&  vader =="Nanny"){ 
+    //   print("Vaders yo Nanny"); 
+    // } 
+    // else if (luke =="Jawa"&& vader =="Sith"){   
+    //   print("Utini!"); 
+    // } 
+    // else if (luke=="Jedi" && vader == "Sith"){ 
+    //   print("Noooo! That's not true!");   
+    // }   
+ 
+    // else{ 
+    //   print("The End"); 
+    // }   
+  //   if(leia){ 
+  //     print("No, there is another!"); 
+  //   } 
+  //   else if (!leia){ 
+  //   print ("Hurray! Now I can date Luke"); 
+  //   } 
+  //   else 
+  //   print("Han fired first!"); 
+  //  
+    if(lightSide == "Obi Wan" || darkSide == "Jar Jar Binks"){ 
+      print("Meeza Evil Sith Lord");   
+    } 
+    else if (lightSide == "Boba Fett" || darkSide == "Darth Maul"){ 
+      print("As you wish, my master"); 
+    } 
+    else{ 
+      print("Not the younglings!"); 
+    } 
+  }   
+ 
 
 
 
