@@ -1,25 +1,4 @@
 Scope can be either local or global. Local scope is referring to the function in the body of the code. Global scope is declared outside of the body of the code. 
 Access Modifier describes the scope of accessibility, meaning public or private. 
 
-10 Examples: 
-
-public class Functions : MonoBehaviour {
-	public void DoStuff(){
-		print("I'm doing stuff...");
-
-	}
-
-	// Use this for initialization
-	void Start () {
-		DoStuff();
-		int result = AddNumbers(5,11);	
-		print(result);
-	}
-	
-	public int AddNumbers(int num1,int num2){
-	
-		int result = num1 + num2;
-
-		return result;
-	}
 	
