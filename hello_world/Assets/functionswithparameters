@@ -1,0 +1,33 @@
+Function parameters can also be called arguments (sometimes they are used interchangeably). Parameters allow a function to perfrom tasks without knowing the exact values before hand. 
+
+Examples:
+
+
+  void Start () { 
+    DoStuff(); 
+    int result = SayThings(hi,bye);   
+    print(result); 
+    
+    
+  void Start () { 
+    DoStuff(); 
+    int result = AddNumbers(0,5);   
+    print(result); 
+    
+    
+  void Start () { 
+    DoStuff(); 
+    int result = SubtractNumbers(100,80);   
+    print(result); 
+    
+    
+  void Start () { 
+    DoStuff(); 
+    int result = MultiplyNumbers(5,11);   
+    print(result); 
+    
+    
+  void Start () { 
+    DoStuff(); 
+    int result = Divide(5,10);   
+    print(result); 
