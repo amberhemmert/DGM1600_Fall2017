@@ -17,3 +17,157 @@ public class For_Loop : MonoBehaviour {
 		
 	}
 }
+
+	public int gum = 10;
+	// Use this for initialization
+	void Start () {
+	// 	while(gum > 0) 
+	// 	print(gum + " sticks of gum in the pack");
+	// 	gum = gum -- ;
+	// }
+	for(;gum > 0; gum --){
+		print (gum + " sticks of gum in the pack");
+	}
+}
+	// Update is called once per frame
+	void Update () {
+		
+	}
+}
+
+}
+
+	public int eggs = 5;
+	// Use this for initialization
+	void Start () {
+	// 	while(eggs > 0) 
+	// 	print(eggs + " eggs in the carton");
+	// 	eggs = eggs -- ;
+	// }
+	for(;eggs > 0; eggs --){
+		print (eggs + " eggs in the carton");
+	}
+}
+	// Update is called once per frame
+	void Update () {
+		
+	}
+}
+
+	public int shoes = 4;
+	// Use this for initialization
+	void Start () {
+	// 	while(shoes > 0) 
+	// 	print(shoes + " shoes in the box");
+	// 	shoes = shoes -- ;
+	// }
+	for(;shoes > 0; shoes --){
+		print (shoes + " shoes in the box");
+	}
+}
+	// Update is called once per frame
+	void Update () {
+		
+	}
+	
+	
+	public int ants = 5;
+	// Use this for initialization
+	void Start () {
+	// 	while(ants > 0) 
+	// 	print(ants + " ants in the picnic");
+	// 	ants = ants -- ;
+	// }
+	for(;ants > 0; ants --){
+		print (ants + " ants in the picnic");
+	}
+}
+	// Update is called once per frame
+	void Update () {
+		
+	}
+	
+
+	public int cartoons = 20;
+	// Use this for initialization
+	void Start () {
+	// 	while(cartoons > 0) 
+	// 	print(cartoons + " cartoons on Saturday");
+	// 	cartoons = cartoons -- ;
+	// }
+	for(;cartoons > 0; cartoons --){
+		print (cartoons + " cartoons on Saturday");
+	}
+}
+	// Update is called once per frame
+	void Update () {
+		
+	}
+	
+	
+	public int animals = 15;
+	// Use this for initialization
+	void Start () {
+	// 	while(animals > 0) 
+	// 	print(animals + " Animals in the farm");
+	// 	animals = animals -- ;
+	// }
+	for(;animals > 0; animals --){
+		print (animals + " Animals in the farm");
+	}
+}
+	// Update is called once per frame
+	void Update () {
+		
+	}
+	
+	
+	public int toys = 100;
+	// Use this for initialization
+	void Start () {
+	// 	while(toys > 0) 
+	// 	print(toys + " toys in the bin");
+	// 	toys = toys -- ;
+	// }
+	for(;toys > 0; toys --){
+		print (toys + " toys in the bin");
+	}
+}
+	// Update is called once per frame
+	void Update () {
+		
+	}
+	
+	
+	public int donuts = 12;
+	// Use this for initialization
+	void Start () {
+	// 	while(donuts > 0) 
+	// 	print(donuts + " donuts in the bakery");
+	// 	donuts = donuts -- ;
+	// }
+	for(;donuts > 0; donuts --){
+		print (donuts + " donuts in the bakery");
+	}
+}
+	// Update is called once per frame
+	void Update () {
+		
+	}
+	
+	
+	public int cookies = 20;
+	// Use this for initialization
+	void Start () {
+	// 	while(cookies > 0) 
+	// 	print(cookies + " cookies in the jar");
+	// 	cookies = cookies -- ;
+	// }
+	for(;cookies > 0; cookies --){
+		print (cookies + " cookies in the jar");
+	}
+}
+	// Update is called once per frame
+	void Update () {
+		
+	}
