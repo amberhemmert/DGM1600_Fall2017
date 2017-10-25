@@ -1,0 +1,32 @@
+/***lists***/
+
+A list is an object that holds variables in a specific order, which are defined with syntax. 
+
+Examples: 
+
+
+List<string> foods = new List<string>();
+// add foods
+foods.Add("chinese");
+foods.Add("mexican");
+foods.Add("american");
+
+// now remove the chinese
+foods.Remove("chinese");
+Console.WriteLine(foods.Count);
+
+List<int> numbers = new List<int>();
+numbers.Add(2);
+numbers.Add(3);
+numbers.Add(4);
+
+List<string> shoes = new List<string>();
+shoes.Add("tennis");
+shoes.Add("heels");
+
+List<string> socks = new List<string>();
+socks.Add("tube");
+socks.Add("ankle");
+
+socks.AddRange(socks);
+Console.WriteLine(socks.Count);
