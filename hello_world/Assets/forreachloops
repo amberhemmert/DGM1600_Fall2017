@@ -1,0 +1,14 @@
+//**forreach loops**//
+
+
+The foreach loop in C# isa block of code on each element in an array or a collection of items. When executing foreach loop it will transpose items in a collection or an array . 
+
+Example:
+
+
+  }
+  string[] drinks = { "Coke", "Pepsi", "Rootbeer"};
+  foreach (string day in drinks)
+  {
+	  MessageBox.Show("The drink is : " + drink);
+  }
