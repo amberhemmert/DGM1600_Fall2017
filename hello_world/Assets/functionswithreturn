@@ -1,0 +1,33 @@
+A return function returns a value that must have a return statement that specifies the what the value is.
+
+Examples:
+
+  public int AddNumbers(int num5,int num6){ 
+   
+    int result = num5 + num6; 
+ 
+    return result; 
+    
+      public int AddNumbers(int num8,int num9){ 
+   
+    int result = num8 + num9; 
+ 
+    return result; 
+    
+      public int AddNumbers(int num10,int num11){ 
+   
+    int result = num10 + num11; 
+ 
+    return result; 
+    
+      public int AddNumbers(int num4,int num3){ 
+   
+    int result = num4 + num3; 
+ 
+    return result; 
+    
+      public int AddNumbers(int num7,int num8){ 
+   
+    int result = num7 + num8; 
+ 
+    return result; 
