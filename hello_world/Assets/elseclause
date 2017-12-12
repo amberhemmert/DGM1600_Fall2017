@@ -1,0 +1,20 @@
+Else Clause is using and if statement and checks the conditions of the statement. 
+
+
+Console.Write("Enter a character: ");
+char c = (char)Console.Read();
+if (Char.IsLetter(c))
+{
+    if (Char.IsLower(c))
+    {
+        Console.WriteLine("The character is lowercase.");
+    }
+    else
+    {
+        Console.WriteLine("The character is uppercase.");
+    }
+}
+else
+{
+    Console.WriteLine("The character is not in the alphabet.");
+}
